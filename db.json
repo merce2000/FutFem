@@ -1,0 +1,18 @@
+{
+    "ligas":[{
+        "id":1,
+        "nombre":"Primera Iberdrola",
+        "cod_pais":"ES"
+    }],
+    "clubs":[{
+        "id":1,
+        "nombre":"Valencia",
+        "imagen":"https://i.ibb.co/bBfpRPH/vcf.png",        
+        "id_liga":1
+    }],
+    "jugadoras":[{
+        "id":1,
+        "nombre":"",
+        "id_equipo":1
+    }]    
+}
