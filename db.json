@@ -1,4 +1,9 @@
 {
+     "paises":[{
+        "cod_pais":"ES",
+        "nombre":"España",
+        "bandera":"flag-icon-es"
+    }],
     "ligas":[{
         "id":1,
         "nombre":"Primera Iberdrola",
