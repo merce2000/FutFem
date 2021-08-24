@@ -10,106 +10,105 @@
         "cod_pais": "ES"
     }],
     "temporadas": [{
-        "21/22": [{
-            "clubs": [{
-                    "id": 1,
-                    "nombre": "Atlético de Madrid",
-                    "imagen": "https://i.ibb.co/rQ0HmB7/atm.png",
-                    "id_liga": 1
-                },
-                {
-                    "id": 2,
-                    "nombre": "Athletic Club",
-                    "imagen": "https://i.ibb.co/VBSNb8p/ath.png",
-                    "id_liga": 1
-                },
-                {
-                    "id": 3,
-                    "nombre": "Deportivo Alavés",
-                    "imagen": "",
-                    "id_liga": 1
-                }, {
-                    "id": 4,
-                    "nombre": "FC Barcelona",
-                    "imagen": "https://i.ibb.co/J3wZMHV/fcb.png",
-                    "id_liga": 1
-                }, {
-                    "id": 5,
-                    "nombre": "Levante UD",
-                    "imagen": "https://i.ibb.co/QKSWKqg/lud.png",
-                    "id_liga": 1
-                },
-                {
-                    "id": 6,
-                    "nombre": "Madrid CFF",
-                    "imagen": "https://i.ibb.co/jZML2r0/mad.png",
-                    "id_liga": 1
-                },
-                {
-                    "id": 7,
-                    "nombre": "Real Betis",
-                    "imagen": "https://i.ibb.co/61CsZDg/bet.png",
-                    "id_liga": 1
-                },
-                {
-                    "id": 8,
-                    "nombre": "Rayo Vallecano",
-                    "imagen": "https://i.ibb.co/svwsm0f/rayo.png",
-                    "id_liga": 1
-                }, {
-                    "id": 9,
-                    "nombre": "Real Madrid",
-                    "imagen": "https://i.ibb.co/t831sKv/rm.png",
-                    "id_liga": 1
-                }, {
-                    "id": 10,
-                    "nombre": "Real Sociedad",
-                    "imagen": "https://i.ibb.co/Fhm307F/real.png",
-                    "id_liga": 1
-                },
-                {
-                    "id": 11,
-                    "nombre": "Eibar",
-                    "imagen": "https://i.ibb.co/vPZ239h/eibar.png",
-                    "id_liga": 1
-                },
-                {
-                    "id": 12,
-                    "nombre": "Sevilla FC",
-                    "imagen": "https://i.ibb.co/hf7L4wm/sev.png",
-                    "id_liga": 1
-                },
-                {
-                    "id": 13,
-                    "nombre": "Sporting de Huelva",
-                    "imagen": "https://i.ibb.co/HBxXmBm/spo.png",
-                    "id_liga": 1
-                }, {
-                    "id": 14,
-                    "nombre": "UD Granadilla Tenerife",
-                    "imagen": "https://i.ibb.co/PhCZm7n/udt.png",
-                    "id_liga": 1
-                }, {
-                    "id": 15,
-                    "nombre": "Valencia CF",
-                    "imagen": "https://i.ibb.co/bBfpRPH/vcf.png",
-                    "id_liga": 1
-                },
-                {
-                    "id": 16,
-                    "nombre": "Villareal",
-                    "imagen": "",
-                    "id_liga": 1
-                }
-            ],
-            "jugadoras": [{
+        "anyo": "21/22",
+        "clubs": [{
                 "id": 1,
-                "nombre": "",
-                "id_equipo": 1
-            }],
-            "resultados": [{
-                "J1": []
-            }]
+                "nombre": "Atlético de Madrid",
+                "imagen": "https://i.ibb.co/rQ0HmB7/atm.png",
+                "id_liga": 1
+            },
+            {
+                "id": 2,
+                "nombre": "Athletic Club",
+                "imagen": "https://i.ibb.co/VBSNb8p/ath.png",
+                "id_liga": 1
+            },
+            {
+                "id": 3,
+                "nombre": "Deportivo Alavés",
+                "imagen": "",
+                "id_liga": 1
+            }, {
+                "id": 4,
+                "nombre": "FC Barcelona",
+                "imagen": "https://i.ibb.co/J3wZMHV/fcb.png",
+                "id_liga": 1
+            }, {
+                "id": 5,
+                "nombre": "Levante UD",
+                "imagen": "https://i.ibb.co/QKSWKqg/lud.png",
+                "id_liga": 1
+            },
+            {
+                "id": 6,
+                "nombre": "Madrid CFF",
+                "imagen": "https://i.ibb.co/jZML2r0/mad.png",
+                "id_liga": 1
+            },
+            {
+                "id": 7,
+                "nombre": "Real Betis",
+                "imagen": "https://i.ibb.co/61CsZDg/bet.png",
+                "id_liga": 1
+            },
+            {
+                "id": 8,
+                "nombre": "Rayo Vallecano",
+                "imagen": "https://i.ibb.co/svwsm0f/rayo.png",
+                "id_liga": 1
+            }, {
+                "id": 9,
+                "nombre": "Real Madrid",
+                "imagen": "https://i.ibb.co/t831sKv/rm.png",
+                "id_liga": 1
+            }, {
+                "id": 10,
+                "nombre": "Real Sociedad",
+                "imagen": "https://i.ibb.co/Fhm307F/real.png",
+                "id_liga": 1
+            },
+            {
+                "id": 11,
+                "nombre": "Eibar",
+                "imagen": "https://i.ibb.co/vPZ239h/eibar.png",
+                "id_liga": 1
+            },
+            {
+                "id": 12,
+                "nombre": "Sevilla FC",
+                "imagen": "https://i.ibb.co/hf7L4wm/sev.png",
+                "id_liga": 1
+            },
+            {
+                "id": 13,
+                "nombre": "Sporting de Huelva",
+                "imagen": "https://i.ibb.co/HBxXmBm/spo.png",
+                "id_liga": 1
+            }, {
+                "id": 14,
+                "nombre": "UD Granadilla Tenerife",
+                "imagen": "https://i.ibb.co/PhCZm7n/udt.png",
+                "id_liga": 1
+            }, {
+                "id": 15,
+                "nombre": "Valencia CF",
+                "imagen": "https://i.ibb.co/bBfpRPH/vcf.png",
+                "id_liga": 1
+            },
+            {
+                "id": 16,
+                "nombre": "Villareal",
+                "imagen": "",
+                "id_liga": 1
+            }
+        ],
+        "jugadoras": [{
+            "id": 1,
+            "nombre": "",
+            "id_equipo": 1
+        }],
+        "resultados": [{
+            "J1": []
         }]
     }]
 }
