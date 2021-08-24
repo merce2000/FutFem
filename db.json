@@ -9,7 +9,12 @@
         "nombre": "Primera Iberdrola",
         "cod_pais": "ES"
     }],
-    "temporadas": [{
+    "temporadas": [{"anyo": "20/21","clubs":[{
+                "id": 1,
+                "nombre": "Atlético de Madrid",
+                "imagen": "https://i.ibb.co/rQ0HmB7/atm.png",
+                "id_liga": 1
+            }]},{
         "anyo": "21/22",
         "clubs": [{
                 "id": 1,
