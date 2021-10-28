@@ -1,13 +1,13 @@
 {
     "paises": [{
-        "cod_pais": "ES",
+        "id": "ES",
         "nombre": "España",
         "bandera": "flag-icon-es"
     }],
     "ligas": [{
         "id": 1,
         "nombre": "Primera Iberdrola",
-        "cod_pais": "ES"
+        "paisId": "ES"
     }],
     "temporadas": [{"anyo": "20/21","clubs":[{
                 "id": 1,
