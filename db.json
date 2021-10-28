@@ -31,7 +31,7 @@
             {
                 "id": 3,
                 "nombre": "Deportivo Alavés",
-                "imagen": "",
+                "imagen": "https://i.ibb.co/5j590tt/alaves.png",
                 "id_liga": 1
             }, {
                 "id": 4,
@@ -103,7 +103,7 @@
             {
                 "id": 16,
                 "nombre": "Villareal",
-                "imagen": "",
+                "imagen": "https://i.ibb.co/wQYbNq4/villareal.png",
                 "id_liga": 1
             }
         ],
