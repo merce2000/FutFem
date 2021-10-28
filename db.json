@@ -1,5 +1,5 @@
 {
-    "paises": [{
+    "cities": [{
         "id": 1,
         "nombre": "España",
         "bandera": "flag-icon-es"
@@ -11,6 +11,6 @@
     "ligas": [{
         "id": 1,
         "nombre": "Primera Iberdrola",
-        "paiseId": 1
+        "cityId": 1
     }]
 }
