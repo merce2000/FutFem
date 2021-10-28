@@ -1,5 +1,5 @@
 {
-    "types": [{
+    "paises": [{
         "id": 1,
         "nombre": "España",
         "bandera": "flag-icon-es"
@@ -8,9 +8,9 @@
         "nombre": "Francia",
         "bandera": "flag-icon-fr"
     }],
-    "practices": [{
+    "ligas": [{
         "id": 1,
         "nombre": "Primera Iberdrola",
-        "typeId": 1
+        "paiseId": 1
     }]
 }
