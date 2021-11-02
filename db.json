@@ -1,5 +1,5 @@
 {
-    "cities": [{
+    "countries": [{
         "id": 1,
         "nombre": "España",
         "bandera": "flag-icon-es"
@@ -8,9 +8,18 @@
         "nombre": "Francia",
         "bandera": "flag-icon-fr"
     }],
-    "ligas": [{
+    "leagues": [{
         "id": 1,
         "nombre": "Primera Iberdrola",
-        "cityId": 1
+        "countryId": 1
+    }],    
+    "seasons": [{
+        "id": 1,
+        "anyo":"21/22",        
+        "leagueId": 1,
+        "clubs":[{
+            "id":1,
+            "nombre":"Barcelona"
+        }]
     }]
 }
