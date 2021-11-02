@@ -15,11 +15,18 @@
     }],    
     "seasons": [{
         "id": 1,
+        "anyo":"20/21",        
+        "leagueId": 1,
+        "clubs":[{
+            "id":1,
+            "nombre":"Deportivo Abanca"
+        },{
+        "id": 1,
         "anyo":"21/22",        
         "leagueId": 1,
         "clubs":[{
             "id":1,
-            "nombre":"Barcelona"
+            "nombre":"Alavés"
         }]
     }]
 }
