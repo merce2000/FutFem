@@ -12,21 +12,24 @@
         "id": 1,
         "nombre": "Primera Iberdrola",
         "countryId": 1
-    }],    
+    }],
     "seasons": [{
-        "id": 1,
-        "anyo":"20/21",        
-        "leagueId": 1,
-        "clubs":[{
-            "id":1,
-            "nombre":"Deportivo Abanca"
-        },{
-        "id": 2,
-        "anyo":"21/22",        
-        "leagueId": 1,
-        "clubs":[{
-            "id":1,
-            "nombre":"Alavés"
-        }]
-    }]
+            "id": 1,
+            "anyo": "20/21",
+            "leagueId": 1,
+            "clubs": [{
+                "id": 1,
+                "nombre": "Deportivo Abanca"
+            }]
+        },
+        {
+            "id": 2,
+            "anyo": "21/22",
+            "leagueId": 1,
+            "clubs": [{
+                "id": 1,
+                "nombre": "Alavés"
+            }]
+        }
+    ]
 }
