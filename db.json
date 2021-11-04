@@ -12,6 +12,18 @@
         "id": 1,
         "nombre": "Primera Iberdrola",
         "countryId": 1
+    },{
+        "id": 2,
+        "nombre": "Ligue 1",
+        "countryId": 2
+    },{
+        "id": 3,
+        "nombre": "Liga Endesa",
+        "countryId": 1
+    },{
+        "id": 4,
+        "nombre": "Reto Iberdrola",
+        "countryId": 1
     }],
     "seasons": [{
             "id": 1,
