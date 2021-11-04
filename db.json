@@ -42,6 +42,33 @@
                 "id": 1,
                 "nombre": "Alavés"
             }]
+        },
+                {
+            "id": 3,
+            "anyo": "20/21",
+            "leagueId": 4,
+            "clubs": [{
+                "id": 1,
+                "nombre": "Aldaia"
+            }]
+        },
+                {
+            "id": 4,
+            "anyo": "21/22",
+            "leagueId": 3,
+            "clubs": [{
+                "id": 1,
+                "nombre": "Valencia Basket"
+            }]
+        },
+                {
+            "id": 5,
+            "anyo": "21/22",
+            "leagueId": 2,
+            "clubs": [{
+                "id": 1,
+                "nombre": "PSG"
+            }]
         }
     ]
 }
