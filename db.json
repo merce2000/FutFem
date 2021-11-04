@@ -12,15 +12,15 @@
         "id": 1,
         "nombre": "Primera Iberdrola",
         "countryId": 1
-    },{
+    }, {
         "id": 2,
         "nombre": "Ligue 1",
         "countryId": 2
-    },{
+    }, {
         "id": 3,
         "nombre": "Liga Endesa",
         "countryId": 1
-    },{
+    }, {
         "id": 4,
         "nombre": "Reto Iberdrola",
         "countryId": 1
@@ -32,6 +32,17 @@
             "clubs": [{
                 "id": 1,
                 "nombre": "Deportivo Abanca"
+            }, {
+                "id": 3,
+                "nombre": "Barcelona"
+            }],
+            "H2H": [{
+                "id": "1",
+                "games": [{
+                    "lclubId": 1,
+                    "vclubId": 3,
+                    "result": "0-5"
+                }]
             }]
         },
         {
@@ -43,7 +54,7 @@
                 "nombre": "Alavés"
             }]
         },
-                {
+        {
             "id": 3,
             "anyo": "20/21",
             "leagueId": 4,
@@ -52,7 +63,7 @@
                 "nombre": "Aldaia"
             }]
         },
-                {
+        {
             "id": 4,
             "anyo": "21/22",
             "leagueId": 3,
@@ -61,7 +72,7 @@
                 "nombre": "Valencia Basket"
             }]
         },
-                {
+        {
             "id": 5,
             "anyo": "21/22",
             "leagueId": 2,
